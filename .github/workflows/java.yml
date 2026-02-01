@@ -18,7 +18,10 @@ jobs:
           distribution: 'temurin'
           java-version: '21'
 
-      - name: Compilar codigo Java
+      - name: Compilar cada ficha separadamente
         run: |
-          find . -name "*.java" -exec javac {} +
+          for d in Ficha_Exercicio_*; do
+            echo "== Compilando $d =="
+            (cd "$d" && javac *.java)
+          done
 
