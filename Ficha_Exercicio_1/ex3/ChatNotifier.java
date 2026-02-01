@@ -1,5 +1,3 @@
-package Ficha_Exercicio_1.ex3;
-
 public class ChatNotifier implements Runnable {
     
     private Mensagem msg;

@@ -1,5 +1,3 @@
-package Ficha_Exercicio_1.ex4;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

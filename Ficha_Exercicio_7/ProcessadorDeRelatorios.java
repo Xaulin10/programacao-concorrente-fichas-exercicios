@@ -1,5 +1,3 @@
-package Ficha_Exercicio_7;
-
 public class ProcessadorDeRelatorios implements Runnable {
 
     private static ThreadLocal<Integer> userId = new ThreadLocal<>();

@@ -1,5 +1,3 @@
-package Ficha_Exercicio_6;
-
 public class GestorCentroEstagio {
     
     private final Computador[] computadores;

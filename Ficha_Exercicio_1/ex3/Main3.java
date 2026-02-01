@@ -1,5 +1,3 @@
-package Ficha_Exercicio_1.ex3;
-
 public class Main3 {
     public static void main(String[] args) {
 

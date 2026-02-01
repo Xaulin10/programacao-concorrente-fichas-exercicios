@@ -1,5 +1,3 @@
-package Ficha_Exercicio_6;
-
 public class Computador implements Runnable {
     
     private final int id;

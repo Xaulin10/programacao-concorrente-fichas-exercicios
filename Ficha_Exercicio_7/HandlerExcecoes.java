@@ -1,5 +1,3 @@
-package Ficha_Exercicio_7;
-
 public class HandlerExcecoes implements Thread.UncaughtExceptionHandler {
     
     @Override

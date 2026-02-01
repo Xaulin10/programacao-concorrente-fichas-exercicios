@@ -1,5 +1,3 @@
-package Ficha_Exercicio_1.ex4;
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

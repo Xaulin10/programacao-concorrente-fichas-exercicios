@@ -1,5 +1,3 @@
-package Ficha_Exercicio_7;
-
 public class RelatorioTimer extends java.util.TimerTask {
 
     private int contador = 1;
