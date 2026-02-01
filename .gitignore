@@ -1,0 +1,19 @@
+# Java compilados
+*.class
+
+# pastas de build (caso existam)
+bin/
+out/
+target/
+
+# VS Code / Eclipse / IntelliJ
+.vscode/
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
